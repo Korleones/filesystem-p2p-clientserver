@@ -18,19 +18,4 @@ This project implements **BitTrickle**, a **permissioned peer-to-peer (P2P) file
 
 All **client-server communication** is handled over **UDP**, while **peer-to-peer (client-to-client)** file transfers occur over **TCP**.
 
-### 🎯 Skills and Knowledge Gained
-
-By completing this project, you will gain hands-on experience in:
-
-- Understanding the design and implementation of **client-server** and **peer-to-peer** architectures.
-- Implementing **socket programming** using both **UDP** and **TCP** protocols.
-- Designing a custom **application-layer protocol** for file sharing.
-
-This project is worth **20%** of the final grade.
-
----
-
-## 🚀 System Overview
-
-### BitTrickle Architecture
 
